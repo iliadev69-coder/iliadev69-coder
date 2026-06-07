@@ -42,3 +42,4 @@ Stack: Python, FastAPI, Pydantic v2, SQLAlchemy 2 (async), PostgreSQL (asyncpg),
 <p>
 Stack: Python, aiogram 3, aiogram-dialog, PostgreSQL (psycopg 3), Alembic, Redis, NATS, taskiq, fluentogram, Docker
 </p>
+
